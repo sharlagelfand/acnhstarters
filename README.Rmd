@@ -1,0 +1,25 @@
+---
+output: github_document
+---
+
+# ACNH Starters
+
+Randomly generate possible combinations of your first 6 animal crossing villagers!
+
+## First Two Villagers
+
+`r emo::ji("muscle")` Jock
+
+`r emo::ji("family")` Uchi
+
+## First Three Mystery Island Villagers
+
+`r emo::ji("star")` Peppy
+
+`r emo::ji("sleeping")` Lazy
+
+`r emo::ji("smile")` Normal
+
+## Campsite Visitor
+
+`r emo::ji("smirk")` Smug
