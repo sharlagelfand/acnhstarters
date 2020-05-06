@@ -1,0 +1,15 @@
+Package: acnhstarters
+Title: Animal Crossing New Horizons Starter Villagers
+Version: 0.0.0.9000
+Authors@R: person('Sharla', 'Gelfand', email = 'sharla.gelfand@gmail.com', role = c('cre', 'aut'))
+Description: Randomly generate your starter villagers for "Animal Crossing New Horizons".
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+URL: https://github.com/sharlagelfand/acnhstarters
+BugReports: https://github.com/sharlagelfand/acnhstarters/issues
